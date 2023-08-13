@@ -132,3 +132,5 @@ Download your Colab notebooks to your computer.
 Move them into your Deep Learning Challenge directory in your local repository.
 
 Push the added files to GitHub.
+
+**Note: In office hours our Instructor and TA assited to give us the more idea about the challenge.
